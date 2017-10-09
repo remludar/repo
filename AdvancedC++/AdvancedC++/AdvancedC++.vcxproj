@@ -22,6 +22,7 @@
     <ProjectGuid>{2F91EA88-71B5-42D2-B61D-EE7EF30A59D8}</ProjectGuid>
     <RootNamespace>AdvancedC</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>Basic Exceptions</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
