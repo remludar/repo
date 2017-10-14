@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{75A6742C-B41F-448E-B1CB-82343A469FF5}</ProjectGuid>
+    <ProjectGuid>{DE285C3A-DB15-494D-9076-FBE1E08CB6F5}</ProjectGuid>
     <RootNamespace>BinaryFiles</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Binary.cpp" />
+    <ClCompile Include="BinaryFiles.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
