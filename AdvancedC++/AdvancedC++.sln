@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two Dimensional Vectors", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lists", "Lists\Lists.vcxproj", "{671B40B8-C3B8-443D-85FC-FC3F873B58D5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maps", "Maps\Maps.vcxproj", "{7F8A1D44-893D-4A54-BD94-9BB73AFF2727}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{671B40B8-C3B8-443D-85FC-FC3F873B58D5}.Release|x64.Build.0 = Release|x64
 		{671B40B8-C3B8-443D-85FC-FC3F873B58D5}.Release|x86.ActiveCfg = Release|Win32
 		{671B40B8-C3B8-443D-85FC-FC3F873B58D5}.Release|x86.Build.0 = Release|Win32
+		{7F8A1D44-893D-4A54-BD94-9BB73AFF2727}.Debug|x64.ActiveCfg = Debug|x64
+		{7F8A1D44-893D-4A54-BD94-9BB73AFF2727}.Debug|x64.Build.0 = Debug|x64
+		{7F8A1D44-893D-4A54-BD94-9BB73AFF2727}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F8A1D44-893D-4A54-BD94-9BB73AFF2727}.Debug|x86.Build.0 = Debug|Win32
+		{7F8A1D44-893D-4A54-BD94-9BB73AFF2727}.Release|x64.ActiveCfg = Release|x64
+		{7F8A1D44-893D-4A54-BD94-9BB73AFF2727}.Release|x64.Build.0 = Release|x64
+		{7F8A1D44-893D-4A54-BD94-9BB73AFF2727}.Release|x86.ActiveCfg = Release|Win32
+		{7F8A1D44-893D-4A54-BD94-9BB73AFF2727}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
