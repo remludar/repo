@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CustomObjectsAsMapValues.cpp">
+    <ClCompile Include="CustomObjectsAsMapKeys.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
